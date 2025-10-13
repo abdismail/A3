@@ -1,0 +1,956 @@
+(.venv) PS C:\Users\abdes\Desktop\EC\ariel_olympics> python A3_J.py          
+[14:14:36] [BASELINE] Running 5 random trials...                                            A3_J.py:584
+[14:14:37] [BASELINE] Trial 1/5: -5.9067                                                    A3_J.py:590
+           [BASELINE] Trial 2/5: -5.3855                                                    A3_J.py:590
+[14:14:38] [BASELINE] Trial 3/5: -5.6155                                                    A3_J.py:590
+           [BASELINE] Trial 4/5: -6.0676                                                    A3_J.py:590
+           [BASELINE] Trial 5/5: -5.9098                                                    A3_J.py:590
+           [BASELINE] Done → avg=-5.7770, best=-5.3855                                      A3_J.py:598
+[14:14:41] === Generation 1/10 (dur=15s) ===                                                A3_J.py:624
+[14:14:47] [GEN 0] Best fitness = -5.5864                                                   A3_J.py:645
+           [GEN 0] Novelty = inf                                                            A3_J.py:651
+[14:15:20] === Generation 2/10 (dur=15s) ===                                                A3_J.py:624
+[14:15:25] [GEN 1] Best fitness = -5.6331                                                   A3_J.py:645
+           [GEN 1] Novelty = 0.128                                                          A3_J.py:651
+[14:15:57] === Generation 3/10 (dur=15s) ===                                                A3_J.py:624
+[14:16:03] [GEN 2] Best fitness = -5.5195                                                   A3_J.py:645
+           [GEN 2] Novelty = 0.129                                                          A3_J.py:651
+[14:16:36] === Generation 4/10 (dur=15s) ===                                                A3_J.py:624
+[14:16:41] [GEN 3] Best fitness = -5.5495                                                   A3_J.py:645
+           [GEN 3] Novelty = 0.066                                                          A3_J.py:651
+[14:17:13] === Generation 5/10 (dur=15s) ===                                                A3_J.py:624
+[14:17:18] [GEN 4] Best fitness = -5.6734                                                   A3_J.py:645
+           [GEN 4] Novelty = 0.168                                                          A3_J.py:651
+[14:17:50] === Generation 6/10 (dur=15s) ===                                                A3_J.py:624
+[14:17:56] [GEN 5] Best fitness = -5.4292                                                   A3_J.py:645
+           [GEN 5] Novelty = 0.176                                                          A3_J.py:651
+[14:18:27] === Generation 7/10 (dur=15s) ===                                                A3_J.py:624
+[14:18:32] [GEN 6] Best fitness = -5.2156                                                   A3_J.py:645
+           [GEN 6] Novelty = 0.466                                                          A3_J.py:651
+[14:19:05] === Generation 8/10 (dur=15s) ===                                                A3_J.py:624
+[14:19:11] [GEN 7] Best fitness = -5.5023                                                   A3_J.py:645
+           [GEN 7] Novelty = 0.094                                                          A3_J.py:651
+[14:19:45] === Generation 9/10 (dur=15s) ===                                                A3_J.py:624
+[14:19:51] [GEN 8] Best fitness = -5.5643                                                   A3_J.py:645
+           [GEN 8] Novelty = 0.082                                                          A3_J.py:651
+[14:20:24] === Generation 10/10 (dur=15s) ===                                               A3_J.py:624
+[14:20:30] [GEN 9] Best fitness = -5.3827                                                   A3_J.py:645
+           [GEN 9] Novelty = 0.355                                                          A3_J.py:651
+[14:21:04] [LOG] Saved fitness logs:                                                        A3_J.py:736
+           C:\Users\abdes\Desktop\EC\ariel_olympics\__data__\A3_J\fitness_logs_pop16_gen10.            
+           npz                                                                                         
+           [RESULT] Best overall fitness: -5.2156                                           A3_J.py:803
+[14:21:24]  Saved evolution plot to                                                         A3_J.py:767
+           C:\Users\abdes\Desktop\EC\ariel_olympics\__data__\A3_J\evolution_results.png                
+[14:21:37] INFO     --> Finish video rendering: num_frames=3751                        renderers.py:160
+[14:21:37] [SAVE] Best genome and graph saved.                                              A3_J.py:826
+(.venv) PS C:\Users\abdes\Desktop\EC\ariel_olympics> python A3_J.py
+[14:54:28] [BASELINE] Running 5 random trials...                                            A3_J.py:584
+[14:54:29] [BASELINE] Trial 1/5: -5.8527                                                    A3_J.py:590
+           [BASELINE] Trial 2/5: -5.9254                                                    A3_J.py:590
+           [BASELINE] Trial 3/5: -5.5118                                                    A3_J.py:590
+[14:54:30] [BASELINE] Trial 4/5: -6.1407                                                    A3_J.py:590
+           [BASELINE] Trial 5/5: -5.9886                                                    A3_J.py:590
+           [BASELINE] Done → avg=-5.8838, best=-5.5118                                      A3_J.py:598
+[14:54:34] === Generation 1/300 (dur=15s) ===                                               A3_J.py:624
+[14:54:40] [GEN 0] Best fitness = -5.3981                                                   A3_J.py:645
+           [GEN 0] Novelty = inf                                                            A3_J.py:651
+[14:55:15] === Generation 2/300 (dur=15s) ===                                               A3_J.py:624
+[14:55:21] [GEN 1] Best fitness = -5.4834                                                   A3_J.py:645
+           [GEN 1] Novelty = 0.227                                                          A3_J.py:651
+[14:55:59] === Generation 3/300 (dur=15s) ===                                               A3_J.py:624
+[14:56:05] [GEN 2] Best fitness = -5.7202                                                   A3_J.py:645
+           [GEN 2] Novelty = 0.439                                                          A3_J.py:651
+[14:56:42] === Generation 4/300 (dur=15s) ===                                               A3_J.py:624
+[14:56:48] [GEN 3] Best fitness = -5.6015                                                   A3_J.py:645
+           [GEN 3] Novelty = 0.216                                                          A3_J.py:651
+[14:57:28] === Generation 5/300 (dur=15s) ===                                               A3_J.py:624
+[14:57:35] [GEN 4] Best fitness = -5.6478                                                   A3_J.py:645
+           [GEN 4] Novelty = 0.413                                                          A3_J.py:651
+[14:58:16] === Generation 6/300 (dur=15s) ===                                               A3_J.py:624
+[14:58:22] [GEN 5] Best fitness = -5.5189                                                   A3_J.py:645
+           [GEN 5] Novelty = 0.196                                                          A3_J.py:651
+[14:58:59] === Generation 7/300 (dur=15s) ===                                               A3_J.py:624
+[14:59:05] [GEN 6] Best fitness = -5.7314                                                   A3_J.py:645
+           [GEN 6] Novelty = 0.391                                                          A3_J.py:651
+[14:59:41] === Generation 8/300 (dur=15s) ===                                               A3_J.py:624
+[14:59:47] [GEN 7] Best fitness = -5.5407                                                   A3_J.py:645
+           [GEN 7] Novelty = 0.237                                                          A3_J.py:651
+[15:00:24] === Generation 9/300 (dur=15s) ===                                               A3_J.py:624
+[15:00:31] [GEN 8] Best fitness = -5.6275                                                   A3_J.py:645
+           [GEN 8] Novelty = 0.238                                                          A3_J.py:651
+[15:01:11] === Generation 10/300 (dur=15s) ===                                              A3_J.py:624
+[15:01:18] [GEN 9] Best fitness = -5.4000                                                   A3_J.py:645
+           [GEN 9] Novelty = 0.306                                                          A3_J.py:651
+[15:01:56] === Generation 11/300 (dur=15s) ===                                              A3_J.py:624
+[15:02:02] [GEN 10] Best fitness = -5.6644                                                  A3_J.py:645
+           [GEN 10] Novelty = 0.239                                                         A3_J.py:651
+[15:02:37] === Generation 12/300 (dur=15s) ===                                              A3_J.py:624
+[15:02:42] [GEN 11] Best fitness = -5.5306                                                  A3_J.py:645
+           [GEN 11] Novelty = 0.237                                                         A3_J.py:651
+[15:03:21] === Generation 13/300 (dur=15s) ===                                              A3_J.py:624
+[15:03:27] [GEN 12] Best fitness = -5.6669                                                  A3_J.py:645
+           [GEN 12] Novelty = 0.238                                                         A3_J.py:651
+[15:04:05] === Generation 14/300 (dur=15s) ===                                              A3_J.py:624
+[15:04:10] [GEN 13] Best fitness = -5.3121                                                  A3_J.py:645
+           [GEN 13] Novelty = 0.330                                                         A3_J.py:651
+[15:04:44] === Generation 15/300 (dur=15s) ===                                              A3_J.py:624
+[15:04:50] [GEN 14] Best fitness = -5.5774                                                  A3_J.py:645
+           [GEN 14] Novelty = 0.237                                                         A3_J.py:651
+[15:05:25] === Generation 16/300 (dur=15s) ===                                              A3_J.py:624
+[15:05:31] [GEN 15] Best fitness = -5.4503                                                  A3_J.py:645
+           [GEN 15] Novelty = 0.254                                                         A3_J.py:651
+[15:06:05] === Generation 17/300 (dur=15s) ===                                              A3_J.py:624
+[15:06:10] [GEN 16] Best fitness = -5.7401                                                  A3_J.py:645
+           [GEN 16] Novelty = 0.307                                                         A3_J.py:651
+[15:06:46] === Generation 18/300 (dur=15s) ===                                              A3_J.py:624
+[15:06:51] [GEN 17] Best fitness = -5.3935                                                  A3_J.py:645
+           [GEN 17] Novelty = 0.154                                                         A3_J.py:651
+[15:07:27] === Generation 19/300 (dur=15s) ===                                              A3_J.py:624
+[15:07:32] [GEN 18] Best fitness = -5.4667                                                  A3_J.py:645
+           [GEN 18] Novelty = 0.158                                                         A3_J.py:651
+[15:08:08] === Generation 20/300 (dur=15s) ===                                              A3_J.py:624
+[15:08:13] [GEN 19] Best fitness = -5.4703                                                  A3_J.py:645
+           [GEN 19] Novelty = 0.156                                                         A3_J.py:651
+[15:08:49] === Generation 21/300 (dur=15s) ===                                              A3_J.py:624
+[15:08:54] [GEN 20] Best fitness = -5.2901                                                  A3_J.py:645
+           [GEN 20] Novelty = 0.170                                                         A3_J.py:651
+[15:09:28] === Generation 22/300 (dur=15s) ===                                              A3_J.py:624
+[15:09:34] [GEN 21] Best fitness = -5.5404                                                  A3_J.py:645
+           [GEN 21] Novelty = 0.083                                                         A3_J.py:651
+[15:10:09] === Generation 23/300 (dur=15s) ===                                              A3_J.py:624
+[15:10:15] [GEN 22] Best fitness = -5.6903                                                  A3_J.py:645
+           [GEN 22] Novelty = 0.265                                                         A3_J.py:651
+[15:10:50] === Generation 24/300 (dur=15s) ===                                              A3_J.py:624
+[15:10:56] [GEN 23] Best fitness = -5.6122                                                  A3_J.py:645
+           [GEN 23] Novelty = 0.224                                                         A3_J.py:651
+[15:11:31] === Generation 25/300 (dur=15s) ===                                              A3_J.py:624
+[15:11:36] [GEN 24] Best fitness = -5.2394                                                  A3_J.py:645
+           [GEN 24] Novelty = 0.234                                                         A3_J.py:651
+[15:12:11] === Generation 26/300 (dur=15s) ===                                              A3_J.py:624
+[15:12:16] [GEN 25] Best fitness = -5.5019                                                  A3_J.py:645
+           [GEN 25] Novelty = 0.165                                                         A3_J.py:651
+[15:12:51] === Generation 27/300 (dur=15s) ===                                              A3_J.py:624
+[15:12:57] [GEN 26] Best fitness = -5.6081                                                  A3_J.py:645
+           [GEN 26] Novelty = 0.228                                                         A3_J.py:651
+[15:13:31] === Generation 28/300 (dur=15s) ===                                              A3_J.py:624
+[15:13:37] [GEN 27] Best fitness = -5.5110                                                  A3_J.py:645
+           [GEN 27] Novelty = 0.146                                                         A3_J.py:651
+[15:14:12] === Generation 29/300 (dur=15s) ===                                              A3_J.py:624
+[15:14:18] [GEN 28] Best fitness = -5.4635                                                  A3_J.py:645
+           [GEN 28] Novelty = 0.084                                                         A3_J.py:651
+[15:14:51] === Generation 30/300 (dur=15s) ===                                              A3_J.py:624
+[15:14:57] [GEN 29] Best fitness = -5.2499                                                  A3_J.py:645
+           [GEN 29] Novelty = 0.175                                                         A3_J.py:651
+[15:15:32] === Generation 31/300 (dur=15s) ===                                              A3_J.py:624
+[15:15:38] [GEN 30] Best fitness = -5.7172                                                  A3_J.py:645
+           [GEN 30] Novelty = 0.185                                                         A3_J.py:651
+[15:16:13] === Generation 32/300 (dur=15s) ===                                              A3_J.py:624
+[15:16:19] [GEN 31] Best fitness = -5.3015                                                  A3_J.py:645
+           [GEN 31] Novelty = 0.090                                                         A3_J.py:651
+[15:16:54] === Generation 33/300 (dur=15s) ===                                              A3_J.py:624
+[15:17:00] [GEN 32] Best fitness = -5.8117                                                  A3_J.py:645
+           [GEN 32] Novelty = 0.312                                                         A3_J.py:651
+[15:17:35] === Generation 34/300 (dur=15s) ===                                              A3_J.py:624
+[15:17:40] [GEN 33] Best fitness = -5.5490                                                  A3_J.py:645
+           [GEN 33] Novelty = 0.134                                                         A3_J.py:651
+[15:18:16] === Generation 35/300 (dur=15s) ===                                              A3_J.py:624
+[15:18:22] [GEN 34] Best fitness = -5.3572                                                  A3_J.py:645
+           [GEN 34] Novelty = 0.043                                                         A3_J.py:651
+[15:18:56] === Generation 36/300 (dur=15s) ===                                              A3_J.py:624
+[15:19:02] [GEN 35] Best fitness = -5.1114                                                  A3_J.py:645
+           [GEN 35] Novelty = 0.298                                                         A3_J.py:651
+[15:19:37] === Generation 37/300 (dur=15s) ===                                              A3_J.py:624
+[15:19:43] [GEN 36] Best fitness = -5.5026                                                  A3_J.py:645
+           [GEN 36] Novelty = 0.130                                                         A3_J.py:651
+[15:20:18] === Generation 38/300 (dur=15s) ===                                              A3_J.py:624
+[15:20:24] [GEN 37] Best fitness = -5.5393                                                  A3_J.py:645
+           [GEN 37] Novelty = 0.154                                                         A3_J.py:651
+[15:21:00] === Generation 39/300 (dur=15s) ===                                              A3_J.py:624
+[15:21:05] [GEN 38] Best fitness = -5.5398                                                  A3_J.py:645
+           [GEN 38] Novelty = 0.132                                                         A3_J.py:651
+[15:21:40] === Generation 40/300 (dur=15s) ===                                              A3_J.py:624
+[15:21:46] [GEN 39] Best fitness = -5.3334                                                  A3_J.py:645
+           [GEN 39] Novelty = 0.099                                                         A3_J.py:651
+[15:22:21] === Generation 41/300 (dur=15s) ===                                              A3_J.py:624
+[15:22:27] [GEN 40] Best fitness = -5.6988                                                  A3_J.py:645
+           [GEN 40] Novelty = 0.147                                                         A3_J.py:651
+[15:23:01] === Generation 42/300 (dur=15s) ===                                              A3_J.py:624
+[15:23:07] [GEN 41] Best fitness = -5.3674                                                  A3_J.py:645
+           [GEN 41] Novelty = 0.044                                                         A3_J.py:651
+[15:23:43] === Generation 43/300 (dur=15s) ===                                              A3_J.py:624
+[15:23:49] [GEN 42] Best fitness = -5.4699                                                  A3_J.py:645
+           [GEN 42] Novelty = 0.079                                                         A3_J.py:651
+[15:24:25] === Generation 44/300 (dur=15s) ===                                              A3_J.py:624
+[15:24:31] [GEN 43] Best fitness = -5.4637                                                  A3_J.py:645
+           [GEN 43] Novelty = 0.048                                                         A3_J.py:651
+[15:25:05] === Generation 45/300 (dur=15s) ===                                              A3_J.py:624
+[15:25:10] [GEN 44] Best fitness = -5.5647                                                  A3_J.py:645
+           [GEN 44] Novelty = 0.111                                                         A3_J.py:651
+[15:25:45] === Generation 46/300 (dur=15s) ===                                              A3_J.py:624
+[15:25:51] [GEN 45] Best fitness = -5.5883                                                  A3_J.py:645
+           [GEN 45] Novelty = 0.123                                                         A3_J.py:651
+[15:26:26] === Generation 47/300 (dur=15s) ===                                              A3_J.py:624
+[15:26:32] [GEN 46] Best fitness = -5.5353                                                  A3_J.py:645
+           [GEN 46] Novelty = 0.054                                                         A3_J.py:651
+[15:27:08] === Generation 48/300 (dur=15s) ===                                              A3_J.py:624
+[15:27:13] [GEN 47] Best fitness = -5.4451                                                  A3_J.py:645
+           [GEN 47] Novelty = 0.052                                                         A3_J.py:651
+[15:27:48] === Generation 49/300 (dur=15s) ===                                              A3_J.py:624
+[15:27:54] [GEN 48] Best fitness = -5.3450                                                  A3_J.py:645
+           [GEN 48] Novelty = 0.079                                                         A3_J.py:651
+[15:28:28] === Generation 50/300 (dur=15s) ===                                              A3_J.py:624
+[15:28:34] [GEN 49] Best fitness = -5.2982                                                  A3_J.py:645
+           [GEN 49] Novelty = 0.094                                                         A3_J.py:651
+[15:29:08] === Generation 51/300 (dur=15s) ===                                              A3_J.py:624
+[15:29:14] [GEN 50] Best fitness = -5.5441                                                  A3_J.py:645
+           [GEN 50] Novelty = 0.077                                                         A3_J.py:651
+[15:29:49] === Generation 52/300 (dur=15s) ===                                              A3_J.py:624
+[15:29:55] [GEN 51] Best fitness = -5.6916                                                  A3_J.py:645
+           [GEN 51] Novelty = 0.098                                                         A3_J.py:651
+[15:30:29] === Generation 53/300 (dur=15s) ===                                              A3_J.py:624
+[15:30:34] [GEN 52] Best fitness = -5.2391                                                  A3_J.py:645
+           [GEN 52] Novelty = 0.099                                                         A3_J.py:651
+[15:31:09] === Generation 54/300 (dur=15s) ===                                              A3_J.py:624
+[15:31:15] [GEN 53] Best fitness = -5.2988                                                  A3_J.py:645
+           [GEN 53] Novelty = 0.106                                                         A3_J.py:651
+[15:31:51] === Generation 55/300 (dur=15s) ===                                              A3_J.py:624
+[15:31:57] [GEN 54] Best fitness = -5.6313                                                  A3_J.py:645
+           [GEN 54] Novelty = 0.147                                                         A3_J.py:651
+[15:32:31] === Generation 56/300 (dur=15s) ===                                              A3_J.py:624
+[15:32:37] [GEN 55] Best fitness = -5.6278                                                  A3_J.py:645
+           [GEN 55] Novelty = 0.115                                                         A3_J.py:651
+[15:33:12] === Generation 57/300 (dur=15s) ===                                              A3_J.py:624
+[15:33:18] [GEN 56] Best fitness = -5.4596                                                  A3_J.py:645
+           [GEN 56] Novelty = 0.048                                                         A3_J.py:651
+[15:33:53] === Generation 58/300 (dur=15s) ===                                              A3_J.py:624
+[15:33:59] [GEN 57] Best fitness = -5.7376                                                  A3_J.py:645
+           [GEN 57] Novelty = 0.149                                                         A3_J.py:651
+[15:34:34] === Generation 59/300 (dur=15s) ===                                              A3_J.py:624
+[15:34:39] [GEN 58] Best fitness = -5.5025                                                  A3_J.py:645
+           [GEN 58] Novelty = 0.073                                                         A3_J.py:651
+[15:35:13] === Generation 60/300 (dur=15s) ===                                              A3_J.py:624
+[15:35:18] [GEN 59] Best fitness = -5.5761                                                  A3_J.py:645
+           [GEN 59] Novelty = 0.138                                                         A3_J.py:651
+[15:35:52] === Generation 61/300 (dur=15s) ===                                              A3_J.py:624
+[15:35:57] [GEN 60] Best fitness = -5.4236                                                  A3_J.py:645
+           [GEN 60] Novelty = 0.038                                                         A3_J.py:651
+[15:36:32] === Generation 62/300 (dur=15s) ===                                              A3_J.py:624
+[15:36:37] [GEN 61] Best fitness = -5.6879                                                  A3_J.py:645
+           [GEN 61] Novelty = 0.142                                                         A3_J.py:651
+[15:37:13] === Generation 63/300 (dur=15s) ===                                              A3_J.py:624
+[15:37:19] [GEN 62] Best fitness = -5.4391                                                  A3_J.py:645
+           [GEN 62] Novelty = 0.037                                                         A3_J.py:651
+[15:37:53] === Generation 64/300 (dur=15s) ===                                              A3_J.py:624
+[15:37:59] [GEN 63] Best fitness = -5.4547                                                  A3_J.py:645
+           [GEN 63] Novelty = 0.063                                                         A3_J.py:651
+[15:38:35] === Generation 65/300 (dur=15s) ===                                              A3_J.py:624
+[15:38:41] [GEN 64] Best fitness = -5.3624                                                  A3_J.py:645
+           [GEN 64] Novelty = 0.044                                                         A3_J.py:651
+[15:39:17] === Generation 66/300 (dur=15s) ===                                              A3_J.py:624
+[15:39:23] [GEN 65] Best fitness = -5.6209                                                  A3_J.py:645
+           [GEN 65] Novelty = 0.126                                                         A3_J.py:651
+[15:39:58] === Generation 67/300 (dur=15s) ===                                              A3_J.py:624
+[15:40:04] [GEN 66] Best fitness = -5.5528                                                  A3_J.py:645
+           [GEN 66] Novelty = 0.081                                                         A3_J.py:651
+[15:40:38] === Generation 68/300 (dur=15s) ===                                              A3_J.py:624
+[15:40:44] [GEN 67] Best fitness = -5.4282                                                  A3_J.py:645
+           [GEN 67] Novelty = 0.067                                                         A3_J.py:651
+[15:41:19] === Generation 69/300 (dur=15s) ===                                              A3_J.py:624
+[15:41:25] [GEN 68] Best fitness = -5.5075                                                  A3_J.py:645
+           [GEN 68] Novelty = 0.079                                                         A3_J.py:651
+[15:42:00] === Generation 70/300 (dur=15s) ===                                              A3_J.py:624
+[15:42:05] [GEN 69] Best fitness = -5.6810                                                  A3_J.py:645
+           [GEN 69] Novelty = 0.120                                                         A3_J.py:651
+[15:42:41] === Generation 71/300 (dur=15s) ===                                              A3_J.py:624
+[15:42:47] [GEN 70] Best fitness = -5.0647                                                  A3_J.py:645
+           [GEN 70] Novelty = 0.253                                                         A3_J.py:651
+[15:43:22] === Generation 72/300 (dur=15s) ===                                              A3_J.py:624
+[15:43:27] [GEN 71] Best fitness = -4.9330                                                  A3_J.py:645
+           [GEN 71] Novelty = 0.446                                                         A3_J.py:651
+[15:44:02] === Generation 73/300 (dur=15s) ===                                              A3_J.py:624
+[15:44:08] [GEN 72] Best fitness = -5.5998                                                  A3_J.py:645
+           [GEN 72] Novelty = 0.068                                                         A3_J.py:651
+[15:44:43] === Generation 74/300 (dur=15s) ===                                              A3_J.py:624
+[15:44:48] [GEN 73] Best fitness = -5.5058                                                  A3_J.py:645
+           [GEN 73] Novelty = 0.058                                                         A3_J.py:651
+[15:45:23] === Generation 75/300 (dur=15s) ===                                              A3_J.py:624
+[15:45:29] [GEN 74] Best fitness = -5.4470                                                  A3_J.py:645
+           [GEN 74] Novelty = 0.048                                                         A3_J.py:651
+[15:46:05] === Generation 76/300 (dur=15s) ===                                              A3_J.py:624
+[15:46:11] [GEN 75] Best fitness = -5.5463                                                  A3_J.py:645
+           [GEN 75] Novelty = 0.051                                                         A3_J.py:651
+[15:46:46] === Generation 77/300 (dur=15s) ===                                              A3_J.py:624
+[15:46:51] [GEN 76] Best fitness = -5.6321                                                  A3_J.py:645
+           [GEN 76] Novelty = 0.074                                                         A3_J.py:651
+[15:47:27] === Generation 78/300 (dur=15s) ===                                              A3_J.py:624
+[15:47:33] [GEN 77] Best fitness = -5.6555                                                  A3_J.py:645
+           [GEN 77] Novelty = 0.118                                                         A3_J.py:651
+[15:48:09] === Generation 79/300 (dur=15s) ===                                              A3_J.py:624
+[15:48:15] [GEN 78] Best fitness = -5.4674                                                  A3_J.py:645
+           [GEN 78] Novelty = 0.048                                                         A3_J.py:651
+[15:48:50] === Generation 80/300 (dur=15s) ===                                              A3_J.py:624
+[15:48:56] [GEN 79] Best fitness = -5.6275                                                  A3_J.py:645
+           [GEN 79] Novelty = 0.106                                                         A3_J.py:651
+[15:49:30] === Generation 81/300 (dur=15s) ===                                              A3_J.py:624
+[15:49:36] [GEN 80] Best fitness = -5.4400                                                  A3_J.py:645
+           [GEN 80] Novelty = 0.045                                                         A3_J.py:651
+[15:50:10] === Generation 82/300 (dur=15s) ===                                              A3_J.py:624
+[15:50:16] [GEN 81] Best fitness = -5.2354                                                  A3_J.py:645
+           [GEN 81] Novelty = 0.086                                                         A3_J.py:651
+[15:50:52] === Generation 83/300 (dur=15s) ===                                              A3_J.py:624
+[15:50:58] [GEN 82] Best fitness = -5.3260                                                  A3_J.py:645
+           [GEN 82] Novelty = 0.039                                                         A3_J.py:651
+[15:51:33] === Generation 84/300 (dur=15s) ===                                              A3_J.py:624
+[15:51:39] [GEN 83] Best fitness = -4.9926                                                  A3_J.py:645
+           [GEN 83] Novelty = 0.369                                                         A3_J.py:651
+[15:52:14] === Generation 85/300 (dur=15s) ===                                              A3_J.py:624
+[15:52:20] [GEN 84] Best fitness = -5.4012                                                  A3_J.py:645
+           [GEN 84] Novelty = 0.036                                                         A3_J.py:651
+[15:52:55] === Generation 86/300 (dur=15s) ===                                              A3_J.py:624
+[15:53:01] [GEN 85] Best fitness = -5.3699                                                  A3_J.py:645
+           [GEN 85] Novelty = 0.384                                                         A3_J.py:651
+[15:53:36] === Generation 87/300 (dur=15s) ===                                              A3_J.py:624
+[15:53:43] [GEN 86] Best fitness = -5.4285                                                  A3_J.py:645
+           [GEN 86] Novelty = 0.041                                                         A3_J.py:651
+[15:54:17] === Generation 88/300 (dur=15s) ===                                              A3_J.py:624
+[15:54:22] [GEN 87] Best fitness = -5.4636                                                  A3_J.py:645
+           [GEN 87] Novelty = 0.049                                                         A3_J.py:651
+[15:54:57] === Generation 89/300 (dur=15s) ===                                              A3_J.py:624
+[15:55:03] [GEN 88] Best fitness = -5.4254                                                  A3_J.py:645
+           [GEN 88] Novelty = 0.048                                                         A3_J.py:651
+[15:55:38] === Generation 90/300 (dur=15s) ===                                              A3_J.py:624
+[15:55:43] [GEN 89] Best fitness = -5.4002                                                  A3_J.py:645
+           [GEN 89] Novelty = 0.044                                                         A3_J.py:651
+[15:56:19] === Generation 91/300 (dur=15s) ===                                              A3_J.py:624
+[15:56:24] [GEN 90] Best fitness = -5.7196                                                  A3_J.py:645
+           [GEN 90] Novelty = 0.111                                                         A3_J.py:651
+[15:57:01] === Generation 92/300 (dur=15s) ===                                              A3_J.py:624
+[15:57:06] [GEN 91] Best fitness = -5.5984                                                  A3_J.py:645
+           [GEN 91] Novelty = 0.056                                                         A3_J.py:651
+[15:57:43] === Generation 93/300 (dur=15s) ===                                              A3_J.py:624
+[15:57:49] [GEN 92] Best fitness = -5.5759                                                  A3_J.py:645
+           [GEN 92] Novelty = 0.056                                                         A3_J.py:651
+[15:58:24] === Generation 94/300 (dur=15s) ===                                              A3_J.py:624
+[15:58:30] [GEN 93] Best fitness = -5.4238                                                  A3_J.py:645
+           [GEN 93] Novelty = 0.101                                                         A3_J.py:651
+[15:59:07] === Generation 95/300 (dur=15s) ===                                              A3_J.py:624
+[15:59:12] [GEN 94] Best fitness = -5.5418                                                  A3_J.py:645
+           [GEN 94] Novelty = 0.064                                                         A3_J.py:651
+[15:59:47] === Generation 96/300 (dur=15s) ===                                              A3_J.py:624
+[15:59:53] [GEN 95] Best fitness = -5.5194                                                  A3_J.py:645
+           [GEN 95] Novelty = 0.063                                                         A3_J.py:651
+[16:00:27] === Generation 97/300 (dur=15s) ===                                              A3_J.py:624
+[16:00:33] [GEN 96] Best fitness = -5.4322                                                  A3_J.py:645
+           [GEN 96] Novelty = 0.047                                                         A3_J.py:651
+[16:01:08] === Generation 98/300 (dur=15s) ===                                              A3_J.py:624
+[16:01:14] [GEN 97] Best fitness = -5.5527                                                  A3_J.py:645
+           [GEN 97] Novelty = 0.060                                                         A3_J.py:651
+[16:01:50] === Generation 99/300 (dur=15s) ===                                              A3_J.py:624
+[16:01:55] [GEN 98] Best fitness = -5.2956                                                  A3_J.py:645
+           [GEN 98] Novelty = 0.044                                                         A3_J.py:651
+[16:02:30] === Generation 100/300 (dur=15s) ===                                             A3_J.py:624
+[16:02:36] [GEN 99] Best fitness = -5.4033                                                  A3_J.py:645
+           [GEN 99] Novelty = 0.049                                                         A3_J.py:651
+[16:03:10] === Generation 101/300 (dur=15s) ===                                             A3_J.py:624
+[16:03:16] [GEN 100] Best fitness = -5.5381                                                 A3_J.py:645
+           [GEN 100] Novelty = 0.041                                                        A3_J.py:651
+[16:03:51] === Generation 102/300 (dur=15s) ===                                             A3_J.py:624
+[16:03:56] [GEN 101] Best fitness = -5.3553                                                 A3_J.py:645
+           [GEN 101] Novelty = 0.035                                                        A3_J.py:651
+[16:04:31] === Generation 103/300 (dur=15s) ===                                             A3_J.py:624
+[16:04:37] [GEN 102] Best fitness = -5.1855                                                 A3_J.py:645
+           [GEN 102] Novelty = 0.113                                                        A3_J.py:651
+[16:05:13] === Generation 104/300 (dur=15s) ===                                             A3_J.py:624
+[16:05:19] [GEN 103] Best fitness = -5.2867                                                 A3_J.py:645
+           [GEN 103] Novelty = 0.074                                                        A3_J.py:651
+[16:05:55] === Generation 105/300 (dur=15s) ===                                             A3_J.py:624
+[16:06:00] [GEN 104] Best fitness = -5.4877                                                 A3_J.py:645
+           [GEN 104] Novelty = 0.043                                                        A3_J.py:651
+[16:06:34] === Generation 106/300 (dur=15s) ===                                             A3_J.py:624
+[16:06:40] [GEN 105] Best fitness = -5.4881                                                 A3_J.py:645
+           [GEN 105] Novelty = 0.031                                                        A3_J.py:651
+[16:07:16] === Generation 107/300 (dur=15s) ===                                             A3_J.py:624
+[16:07:22] [GEN 106] Best fitness = -5.5644                                                 A3_J.py:645
+           [GEN 106] Novelty = 0.050                                                        A3_J.py:651
+[16:07:57] === Generation 108/300 (dur=15s) ===                                             A3_J.py:624
+[16:08:03] [GEN 107] Best fitness = -5.3491                                                 A3_J.py:645
+           [GEN 107] Novelty = 0.063                                                        A3_J.py:651
+[16:08:40] === Generation 109/300 (dur=15s) ===                                             A3_J.py:624
+[16:08:46] [GEN 108] Best fitness = -5.2443                                                 A3_J.py:645
+           [GEN 108] Novelty = 0.098                                                        A3_J.py:651
+[16:09:21] === Generation 110/300 (dur=15s) ===                                             A3_J.py:624
+[16:09:26] [GEN 109] Best fitness = -5.5088                                                 A3_J.py:645
+           [GEN 109] Novelty = 0.017                                                        A3_J.py:651
+[16:10:02] === Generation 111/300 (dur=15s) ===                                             A3_J.py:624
+[16:10:07] [GEN 110] Best fitness = -4.8492                                                 A3_J.py:645
+           [GEN 110] Novelty = 0.411                                                        A3_J.py:651
+[16:10:40] === Generation 112/300 (dur=15s) ===                                             A3_J.py:624
+[16:10:46] [GEN 111] Best fitness = -5.5301                                                 A3_J.py:645
+           [GEN 111] Novelty = 0.032                                                        A3_J.py:651
+[16:11:20] === Generation 113/300 (dur=15s) ===                                             A3_J.py:624
+[16:11:26] [GEN 112] Best fitness = -5.6677                                                 A3_J.py:645
+           [GEN 112] Novelty = 0.100                                                        A3_J.py:651
+[16:11:58] === Generation 114/300 (dur=15s) ===                                             A3_J.py:624
+[16:12:04] [GEN 113] Best fitness = -5.6985                                                 A3_J.py:645
+           [GEN 113] Novelty = 0.091                                                        A3_J.py:651
+[16:12:36] === Generation 115/300 (dur=15s) ===                                             A3_J.py:624
+[16:12:42] [GEN 114] Best fitness = -5.0586                                                 A3_J.py:645
+           [GEN 114] Novelty = 0.293                                                        A3_J.py:651
+[16:13:14] === Generation 116/300 (dur=15s) ===                                             A3_J.py:624
+[16:13:20] [GEN 115] Best fitness = -5.7515                                                 A3_J.py:645
+           [GEN 115] Novelty = 0.064                                                        A3_J.py:651
+[16:13:53] === Generation 117/300 (dur=15s) ===                                             A3_J.py:624
+[16:13:59] [GEN 116] Best fitness = -5.6231                                                 A3_J.py:645
+           [GEN 116] Novelty = 0.049                                                        A3_J.py:651
+[16:14:34] === Generation 118/300 (dur=15s) ===                                             A3_J.py:624
+[16:14:39] [GEN 117] Best fitness = -5.6588                                                 A3_J.py:645
+           [GEN 117] Novelty = 0.067                                                        A3_J.py:651
+[16:15:15] === Generation 119/300 (dur=15s) ===                                             A3_J.py:624
+[16:15:21] [GEN 118] Best fitness = -5.6030                                                 A3_J.py:645
+           [GEN 118] Novelty = 0.042                                                        A3_J.py:651
+[16:15:56] === Generation 120/300 (dur=15s) ===                                             A3_J.py:624
+[16:16:01] [GEN 119] Best fitness = -5.5543                                                 A3_J.py:645
+           [GEN 119] Novelty = 0.027                                                        A3_J.py:651
+[16:16:35] === Generation 121/300 (dur=15s) ===                                             A3_J.py:624
+[16:16:41] [GEN 120] Best fitness = -5.4974                                                 A3_J.py:645
+           [GEN 120] Novelty = 0.047                                                        A3_J.py:651
+[16:17:15] === Generation 122/300 (dur=15s) ===                                             A3_J.py:624
+[16:17:21] [GEN 121] Best fitness = -5.5885                                                 A3_J.py:645
+           [GEN 121] Novelty = 0.023                                                        A3_J.py:651
+[16:17:55] === Generation 123/300 (dur=15s) ===                                             A3_J.py:624
+[16:18:01] [GEN 122] Best fitness = -5.5637                                                 A3_J.py:645
+           [GEN 122] Novelty = 0.020                                                        A3_J.py:651
+[16:18:35] === Generation 124/300 (dur=15s) ===                                             A3_J.py:624
+[16:18:40] [GEN 123] Best fitness = -5.5959                                                 A3_J.py:645
+           [GEN 123] Novelty = 0.042                                                        A3_J.py:651
+[16:19:15] === Generation 125/300 (dur=15s) ===                                             A3_J.py:624
+[16:19:21] [GEN 124] Best fitness = -5.3010                                                 A3_J.py:645
+           [GEN 124] Novelty = 0.039                                                        A3_J.py:651
+[16:19:55] === Generation 126/300 (dur=15s) ===                                             A3_J.py:624
+[16:20:01] [GEN 125] Best fitness = -5.2616                                                 A3_J.py:645
+           [GEN 125] Novelty = 0.046                                                        A3_J.py:651
+[16:20:35] === Generation 127/300 (dur=15s) ===                                             A3_J.py:624
+[16:20:41] [GEN 126] Best fitness = -5.6622                                                 A3_J.py:645
+           [GEN 126] Novelty = 0.086                                                        A3_J.py:651
+[16:21:15] === Generation 128/300 (dur=15s) ===                                             A3_J.py:624
+[16:21:21] [GEN 127] Best fitness = -5.4497                                                 A3_J.py:645
+           [GEN 127] Novelty = 0.035                                                        A3_J.py:651
+[16:21:55] === Generation 129/300 (dur=15s) ===                                             A3_J.py:624
+[16:22:01] [GEN 128] Best fitness = -5.5155                                                 A3_J.py:645
+           [GEN 128] Novelty = 0.030                                                        A3_J.py:651
+[16:22:37] === Generation 130/300 (dur=15s) ===                                             A3_J.py:624
+[16:22:42] [GEN 129] Best fitness = -5.4413                                                 A3_J.py:645
+           [GEN 129] Novelty = 0.034                                                        A3_J.py:651
+[16:23:17] === Generation 131/300 (dur=15s) ===                                             A3_J.py:624
+[16:23:23] [GEN 130] Best fitness = -5.5004                                                 A3_J.py:645
+           [GEN 130] Novelty = 0.019                                                        A3_J.py:651
+[16:23:57] === Generation 132/300 (dur=15s) ===                                             A3_J.py:624
+[16:24:03] [GEN 131] Best fitness = -5.5616                                                 A3_J.py:645
+           [GEN 131] Novelty = 0.028                                                        A3_J.py:651
+[16:24:41] === Generation 133/300 (dur=15s) ===                                             A3_J.py:624
+[16:24:47] [GEN 132] Best fitness = -5.3982                                                 A3_J.py:645
+           [GEN 132] Novelty = 0.037                                                        A3_J.py:651
+[16:25:26] === Generation 134/300 (dur=15s) ===                                             A3_J.py:624
+[16:25:33] [GEN 133] Best fitness = -5.2609                                                 A3_J.py:645
+           [GEN 133] Novelty = 0.048                                                        A3_J.py:651
+[16:26:12] === Generation 135/300 (dur=15s) ===                                             A3_J.py:624
+[16:26:18] [GEN 134] Best fitness = -5.3624                                                 A3_J.py:645
+           [GEN 134] Novelty = 0.034                                                        A3_J.py:651
+[16:26:57] === Generation 136/300 (dur=15s) ===                                             A3_J.py:624
+[16:27:03] [GEN 135] Best fitness = -5.5875                                                 A3_J.py:645
+           [GEN 135] Novelty = 0.046                                                        A3_J.py:651
+[16:27:40] === Generation 137/300 (dur=15s) ===                                             A3_J.py:624
+[16:27:46] [GEN 136] Best fitness = -5.6850                                                 A3_J.py:645
+           [GEN 136] Novelty = 0.044                                                        A3_J.py:651
+[16:28:24] === Generation 138/300 (dur=15s) ===                                             A3_J.py:624
+[16:28:30] [GEN 137] Best fitness = -5.6019                                                 A3_J.py:645
+           [GEN 137] Novelty = 0.044                                                        A3_J.py:651
+[16:29:06] === Generation 139/300 (dur=15s) ===                                             A3_J.py:624
+[16:29:13] [GEN 138] Best fitness = -5.4501                                                 A3_J.py:645
+           [GEN 138] Novelty = 0.034                                                        A3_J.py:651
+[16:29:51] === Generation 140/300 (dur=15s) ===                                             A3_J.py:624
+[16:29:57] [GEN 139] Best fitness = -5.7391                                                 A3_J.py:645
+           [GEN 139] Novelty = 0.110                                                        A3_J.py:651
+[16:30:36] === Generation 141/300 (dur=15s) ===                                             A3_J.py:624
+[16:30:43] [GEN 140] Best fitness = -5.6078                                                 A3_J.py:645
+           [GEN 140] Novelty = 0.041                                                        A3_J.py:651
+[16:31:24] === Generation 142/300 (dur=15s) ===                                             A3_J.py:624
+[16:31:32] [GEN 141] Best fitness = -5.6699                                                 A3_J.py:645
+           [GEN 141] Novelty = 0.071                                                        A3_J.py:651
+[16:32:12] === Generation 143/300 (dur=15s) ===                                             A3_J.py:624
+[16:32:19] [GEN 142] Best fitness = -4.9618                                                 A3_J.py:645
+           [GEN 142] Novelty = 0.225                                                        A3_J.py:651
+[16:32:57] === Generation 144/300 (dur=15s) ===                                             A3_J.py:624
+[16:33:03] [GEN 143] Best fitness = -5.4020                                                 A3_J.py:645
+           [GEN 143] Novelty = 0.035                                                        A3_J.py:651
+[16:33:40] === Generation 145/300 (dur=15s) ===                                             A3_J.py:624
+[16:33:46] [GEN 144] Best fitness = -5.4276                                                 A3_J.py:645
+           [GEN 144] Novelty = 0.059                                                        A3_J.py:651
+[16:34:25] === Generation 146/300 (dur=15s) ===                                             A3_J.py:624
+[16:34:32] [GEN 145] Best fitness = -5.5359                                                 A3_J.py:645
+           [GEN 145] Novelty = 0.030                                                        A3_J.py:651
+[16:35:09] === Generation 147/300 (dur=15s) ===                                             A3_J.py:624
+[16:35:14] [GEN 146] Best fitness = -5.2078                                                 A3_J.py:645
+           [GEN 146] Novelty = 0.116                                                        A3_J.py:651
+[16:35:54] === Generation 148/300 (dur=15s) ===                                             A3_J.py:624
+[16:36:01] [GEN 147] Best fitness = -5.3318                                                 A3_J.py:645
+           [GEN 147] Novelty = 0.098                                                        A3_J.py:651
+[16:36:42] === Generation 149/300 (dur=15s) ===                                             A3_J.py:624
+[16:36:48] [GEN 148] Best fitness = -5.1550                                                 A3_J.py:645
+           [GEN 148] Novelty = 0.080                                                        A3_J.py:651
+[16:37:24] === Generation 150/300 (dur=15s) ===                                             A3_J.py:624
+[16:37:30] [GEN 149] Best fitness = -5.2340                                                 A3_J.py:645
+           [GEN 149] Novelty = 0.025                                                        A3_J.py:651
+[16:38:04] === Generation 151/300 (dur=15s) ===                                             A3_J.py:624
+[16:38:10] [GEN 150] Best fitness = -5.5607                                                 A3_J.py:645
+           [GEN 150] Novelty = 0.056                                                        A3_J.py:651
+[16:38:45] === Generation 152/300 (dur=15s) ===                                             A3_J.py:624
+[16:38:51] [GEN 151] Best fitness = -5.7148                                                 A3_J.py:645
+           [GEN 151] Novelty = 0.042                                                        A3_J.py:651
+[16:39:26] === Generation 153/300 (dur=15s) ===                                             A3_J.py:624
+[16:39:32] [GEN 152] Best fitness = -5.6060                                                 A3_J.py:645
+           [GEN 152] Novelty = 0.022                                                        A3_J.py:651
+[16:40:07] === Generation 154/300 (dur=15s) ===                                             A3_J.py:624
+[16:40:13] [GEN 153] Best fitness = -5.0550                                                 A3_J.py:645
+           [GEN 153] Novelty = 0.157                                                        A3_J.py:651
+[16:40:48] === Generation 155/300 (dur=15s) ===                                             A3_J.py:624
+[16:40:54] [GEN 154] Best fitness = -5.3916                                                 A3_J.py:645
+           [GEN 154] Novelty = 0.036                                                        A3_J.py:651
+[16:41:30] === Generation 156/300 (dur=15s) ===                                             A3_J.py:624
+[16:41:35] [GEN 155] Best fitness = -5.6283                                                 A3_J.py:645
+           [GEN 155] Novelty = 0.049                                                        A3_J.py:651
+[16:42:10] === Generation 157/300 (dur=15s) ===                                             A3_J.py:624
+[16:42:16] [GEN 156] Best fitness = -5.5779                                                 A3_J.py:645
+           [GEN 156] Novelty = 0.029                                                        A3_J.py:651
+[16:42:52] === Generation 158/300 (dur=15s) ===                                             A3_J.py:624
+[16:42:57] [GEN 157] Best fitness = -5.3567                                                 A3_J.py:645
+           [GEN 157] Novelty = 0.032                                                        A3_J.py:651
+[16:43:32] === Generation 159/300 (dur=15s) ===                                             A3_J.py:624
+[16:43:38] [GEN 158] Best fitness = -5.4327                                                 A3_J.py:645
+           [GEN 158] Novelty = 0.034                                                        A3_J.py:651
+[16:44:14] === Generation 160/300 (dur=15s) ===                                             A3_J.py:624
+[16:44:19] [GEN 159] Best fitness = -5.3432                                                 A3_J.py:645
+           [GEN 159] Novelty = 0.047                                                        A3_J.py:651
+[16:44:55] === Generation 161/300 (dur=15s) ===                                             A3_J.py:624
+[16:45:01] [GEN 160] Best fitness = -5.7639                                                 A3_J.py:645
+           [GEN 160] Novelty = 0.107                                                        A3_J.py:651
+[16:45:38] === Generation 162/300 (dur=15s) ===                                             A3_J.py:624
+[16:45:44] [GEN 161] Best fitness = -5.4186                                                 A3_J.py:645
+           [GEN 161] Novelty = 0.023                                                        A3_J.py:651
+[16:46:21] === Generation 163/300 (dur=15s) ===                                             A3_J.py:624
+[16:46:28] [GEN 162] Best fitness = -5.2856                                                 A3_J.py:645
+           [GEN 162] Novelty = 0.046                                                        A3_J.py:651
+[16:47:07] === Generation 164/300 (dur=15s) ===                                             A3_J.py:624
+[16:47:13] [GEN 163] Best fitness = -5.5585                                                 A3_J.py:645
+           [GEN 163] Novelty = 0.042                                                        A3_J.py:651
+[16:47:51] === Generation 165/300 (dur=15s) ===                                             A3_J.py:624
+[16:47:57] [GEN 164] Best fitness = -5.6100                                                 A3_J.py:645
+           [GEN 164] Novelty = 0.037                                                        A3_J.py:651
+[16:48:36] === Generation 166/300 (dur=15s) ===                                             A3_J.py:624
+[16:48:42] [GEN 165] Best fitness = -5.6427                                                 A3_J.py:645
+           [GEN 165] Novelty = 0.025                                                        A3_J.py:651
+[16:49:18] === Generation 167/300 (dur=15s) ===                                             A3_J.py:624
+[16:49:24] [GEN 166] Best fitness = -5.4427                                                 A3_J.py:645
+           [GEN 166] Novelty = 0.034                                                        A3_J.py:651
+[16:49:59] === Generation 168/300 (dur=15s) ===                                             A3_J.py:624
+[16:50:05] [GEN 167] Best fitness = -5.3412                                                 A3_J.py:645
+           [GEN 167] Novelty = 0.024                                                        A3_J.py:651
+[16:50:42] === Generation 169/300 (dur=15s) ===                                             A3_J.py:624
+[16:50:48] [GEN 168] Best fitness = -5.0348                                                 A3_J.py:645
+           [GEN 168] Novelty = 0.156                                                        A3_J.py:651
+[16:51:25] === Generation 170/300 (dur=15s) ===                                             A3_J.py:624
+[16:51:31] [GEN 169] Best fitness = -5.5928                                                 A3_J.py:645
+           [GEN 169] Novelty = 0.028                                                        A3_J.py:651
+[16:52:07] === Generation 171/300 (dur=15s) ===                                             A3_J.py:624
+[16:52:13] [GEN 170] Best fitness = -5.4707                                                 A3_J.py:645
+           [GEN 170] Novelty = 0.027                                                        A3_J.py:651
+[16:52:52] === Generation 172/300 (dur=15s) ===                                             A3_J.py:624
+[16:52:58] [GEN 171] Best fitness = -5.5193                                                 A3_J.py:645
+           [GEN 171] Novelty = 0.030                                                        A3_J.py:651
+[16:53:36] === Generation 173/300 (dur=15s) ===                                             A3_J.py:624
+[16:53:42] [GEN 172] Best fitness = -5.3768                                                 A3_J.py:645
+           [GEN 172] Novelty = 0.046                                                        A3_J.py:651
+[16:54:20] === Generation 174/300 (dur=15s) ===                                             A3_J.py:624
+[16:54:26] [GEN 173] Best fitness = -5.7344                                                 A3_J.py:645
+           [GEN 173] Novelty = 0.109                                                        A3_J.py:651
+[16:55:04] === Generation 175/300 (dur=15s) ===                                             A3_J.py:624
+[16:55:11] [GEN 174] Best fitness = -5.1768                                                 A3_J.py:645
+           [GEN 174] Novelty = 0.058                                                        A3_J.py:651
+[16:55:51] === Generation 176/300 (dur=15s) ===                                             A3_J.py:624
+[16:55:57] [GEN 175] Best fitness = -5.6470                                                 A3_J.py:645
+           [GEN 175] Novelty = 0.031                                                        A3_J.py:651
+[16:56:35] === Generation 177/300 (dur=15s) ===                                             A3_J.py:624
+[16:56:41] [GEN 176] Best fitness = -5.5502                                                 A3_J.py:645
+           [GEN 176] Novelty = 0.023                                                        A3_J.py:651
+[16:57:18] === Generation 178/300 (dur=15s) ===                                             A3_J.py:624
+[16:57:24] [GEN 177] Best fitness = -5.3105                                                 A3_J.py:645
+           [GEN 177] Novelty = 0.029                                                        A3_J.py:651
+[16:58:03] === Generation 179/300 (dur=15s) ===                                             A3_J.py:624
+[16:58:10] [GEN 178] Best fitness = -5.6577                                                 A3_J.py:645
+           [GEN 178] Novelty = 0.027                                                        A3_J.py:651
+[16:58:48] === Generation 180/300 (dur=15s) ===                                             A3_J.py:624
+[16:58:55] [GEN 179] Best fitness = -5.6576                                                 A3_J.py:645
+           [GEN 179] Novelty = 0.057                                                        A3_J.py:651
+[16:59:33] === Generation 181/300 (dur=15s) ===                                             A3_J.py:624
+[16:59:40] [GEN 180] Best fitness = -5.6896                                                 A3_J.py:645
+           [GEN 180] Novelty = 0.032                                                        A3_J.py:651
+[17:00:23] === Generation 182/300 (dur=15s) ===                                             A3_J.py:624
+[17:00:31] [GEN 181] Best fitness = -5.4919                                                 A3_J.py:645
+           [GEN 181] Novelty = 0.024                                                        A3_J.py:651
+[17:01:18] === Generation 183/300 (dur=15s) ===                                             A3_J.py:624
+[17:01:25] [GEN 182] Best fitness = -5.5510                                                 A3_J.py:645
+           [GEN 182] Novelty = 0.031                                                        A3_J.py:651
+[17:02:06] === Generation 184/300 (dur=15s) ===                                             A3_J.py:624
+[17:02:14] [GEN 183] Best fitness = -5.3528                                                 A3_J.py:645
+           [GEN 183] Novelty = 0.045                                                        A3_J.py:651
+[17:03:00] === Generation 185/300 (dur=15s) ===                                             A3_J.py:624
+[17:03:06] [GEN 184] Best fitness = -5.4204                                                 A3_J.py:645
+           [GEN 184] Novelty = 0.037                                                        A3_J.py:651
+[17:03:42] === Generation 186/300 (dur=15s) ===                                             A3_J.py:624
+[17:03:49] [GEN 185] Best fitness = -5.4106                                                 A3_J.py:645
+           [GEN 185] Novelty = 0.023                                                        A3_J.py:651
+[17:04:29] === Generation 187/300 (dur=15s) ===                                             A3_J.py:624
+[17:04:36] [GEN 186] Best fitness = -5.5987                                                 A3_J.py:645
+           [GEN 186] Novelty = 0.032                                                        A3_J.py:651
+[17:05:20] === Generation 188/300 (dur=15s) ===                                             A3_J.py:624
+[17:05:27] [GEN 187] Best fitness = -5.1804                                                 A3_J.py:645
+           [GEN 187] Novelty = 0.108                                                        A3_J.py:651
+[17:06:06] === Generation 189/300 (dur=15s) ===                                             A3_J.py:624
+[17:06:11] [GEN 188] Best fitness = -5.4307                                                 A3_J.py:645
+           [GEN 188] Novelty = 0.026                                                        A3_J.py:651
+[17:06:48] === Generation 190/300 (dur=15s) ===                                             A3_J.py:624
+[17:06:53] [GEN 189] Best fitness = -5.3758                                                 A3_J.py:645
+           [GEN 189] Novelty = 0.022                                                        A3_J.py:651
+[17:07:28] === Generation 191/300 (dur=15s) ===                                             A3_J.py:624
+[17:07:33] [GEN 190] Best fitness = -5.6950                                                 A3_J.py:645
+           [GEN 190] Novelty = 0.030                                                        A3_J.py:651
+[17:08:09] === Generation 192/300 (dur=15s) ===                                             A3_J.py:624
+[17:08:14] [GEN 191] Best fitness = -5.4301                                                 A3_J.py:645
+           [GEN 191] Novelty = 0.024                                                        A3_J.py:651
+[17:08:52] === Generation 193/300 (dur=15s) ===                                             A3_J.py:624
+[17:08:58] [GEN 192] Best fitness = -5.3990                                                 A3_J.py:645
+           [GEN 192] Novelty = 0.028                                                        A3_J.py:651
+[17:09:32] === Generation 194/300 (dur=15s) ===                                             A3_J.py:624
+[17:09:38] [GEN 193] Best fitness = -5.4708                                                 A3_J.py:645
+           [GEN 193] Novelty = 0.025                                                        A3_J.py:651
+[17:10:12] === Generation 195/300 (dur=15s) ===                                             A3_J.py:624
+[17:10:17] [GEN 194] Best fitness = -5.3142                                                 A3_J.py:645
+           [GEN 194] Novelty = 0.033                                                        A3_J.py:651
+[17:10:52] === Generation 196/300 (dur=15s) ===                                             A3_J.py:624
+[17:10:57] [GEN 195] Best fitness = -5.5670                                                 A3_J.py:645
+           [GEN 195] Novelty = 0.025                                                        A3_J.py:651
+[17:11:32] === Generation 197/300 (dur=15s) ===                                             A3_J.py:624
+[17:11:37] [GEN 196] Best fitness = -5.4739                                                 A3_J.py:645
+           [GEN 196] Novelty = 0.024                                                        A3_J.py:651
+[17:12:12] === Generation 198/300 (dur=15s) ===                                             A3_J.py:624
+[17:12:17] [GEN 197] Best fitness = -5.6167                                                 A3_J.py:645
+           [GEN 197] Novelty = 0.030                                                        A3_J.py:651
+[17:12:52] === Generation 199/300 (dur=15s) ===                                             A3_J.py:624
+[17:12:58] [GEN 198] Best fitness = -5.4972                                                 A3_J.py:645
+           [GEN 198] Novelty = 0.043                                                        A3_J.py:651
+[17:13:33] === Generation 200/300 (dur=15s) ===                                             A3_J.py:624
+[17:13:38] [GEN 199] Best fitness = -5.6002                                                 A3_J.py:645
+           [GEN 199] Novelty = 0.029                                                        A3_J.py:651
+[17:14:12] === Generation 201/300 (dur=15s) ===                                             A3_J.py:624
+[17:14:18] [GEN 200] Best fitness = -5.2707                                                 A3_J.py:645
+           [GEN 200] Novelty = 0.034                                                        A3_J.py:651
+[17:14:55] === Generation 202/300 (dur=15s) ===                                             A3_J.py:624
+[17:15:00] [GEN 201] Best fitness = -5.3229                                                 A3_J.py:645
+           [GEN 201] Novelty = 0.029                                                        A3_J.py:651
+[17:15:35] === Generation 203/300 (dur=15s) ===                                             A3_J.py:624
+[17:15:41] [GEN 202] Best fitness = -5.4516                                                 A3_J.py:645
+           [GEN 202] Novelty = 0.023                                                        A3_J.py:651
+[17:16:15] === Generation 204/300 (dur=15s) ===                                             A3_J.py:624
+[17:16:20] [GEN 203] Best fitness = -5.3826                                                 A3_J.py:645
+           [GEN 203] Novelty = 0.043                                                        A3_J.py:651
+[17:16:55] === Generation 205/300 (dur=15s) ===                                             A3_J.py:624
+[17:17:00] [GEN 204] Best fitness = -5.3933                                                 A3_J.py:645
+           [GEN 204] Novelty = 0.030                                                        A3_J.py:651
+[17:17:36] === Generation 206/300 (dur=15s) ===                                             A3_J.py:624
+[17:17:42] [GEN 205] Best fitness = -5.6739                                                 A3_J.py:645
+           [GEN 205] Novelty = 0.078                                                        A3_J.py:651
+[17:18:15] === Generation 207/300 (dur=15s) ===                                             A3_J.py:624
+[17:18:21] [GEN 206] Best fitness = -5.7480                                                 A3_J.py:645
+           [GEN 206] Novelty = 0.025                                                        A3_J.py:651
+[17:18:55] === Generation 208/300 (dur=15s) ===                                             A3_J.py:624
+[17:19:00] [GEN 207] Best fitness = -5.2370                                                 A3_J.py:645
+           [GEN 207] Novelty = 0.062                                                        A3_J.py:651
+[17:19:35] === Generation 209/300 (dur=15s) ===                                             A3_J.py:624
+[17:19:41] [GEN 208] Best fitness = -5.5689                                                 A3_J.py:645
+           [GEN 208] Novelty = 0.032                                                        A3_J.py:651
+[17:20:17] === Generation 210/300 (dur=15s) ===                                             A3_J.py:624
+[17:20:23] [GEN 209] Best fitness = -5.4287                                                 A3_J.py:645
+           [GEN 209] Novelty = 0.026                                                        A3_J.py:651
+[17:20:57] === Generation 211/300 (dur=15s) ===                                             A3_J.py:624
+[17:21:02] [GEN 210] Best fitness = -5.5668                                                 A3_J.py:645
+           [GEN 210] Novelty = 0.025                                                        A3_J.py:651
+[17:21:37] === Generation 212/300 (dur=15s) ===                                             A3_J.py:624
+[17:21:43] [GEN 211] Best fitness = -5.1887                                                 A3_J.py:645
+           [GEN 211] Novelty = 0.036                                                        A3_J.py:651
+[17:22:17] === Generation 213/300 (dur=15s) ===                                             A3_J.py:624
+[17:22:23] [GEN 212] Best fitness = -5.5848                                                 A3_J.py:645
+           [GEN 212] Novelty = 0.030                                                        A3_J.py:651
+[17:22:58] === Generation 214/300 (dur=15s) ===                                             A3_J.py:624
+[17:23:03] [GEN 213] Best fitness = -5.4697                                                 A3_J.py:645
+           [GEN 213] Novelty = 0.025                                                        A3_J.py:651
+[17:23:38] === Generation 215/300 (dur=15s) ===                                             A3_J.py:624
+[17:23:43] [GEN 214] Best fitness = -5.5258                                                 A3_J.py:645
+           [GEN 214] Novelty = 0.022                                                        A3_J.py:651
+[17:24:18] === Generation 216/300 (dur=15s) ===                                             A3_J.py:624
+[17:24:24] [GEN 215] Best fitness = -5.5522                                                 A3_J.py:645
+           [GEN 215] Novelty = 0.024                                                        A3_J.py:651
+[17:24:58] === Generation 217/300 (dur=15s) ===                                             A3_J.py:624
+[17:25:04] [GEN 216] Best fitness = -5.6195                                                 A3_J.py:645
+           [GEN 216] Novelty = 0.032                                                        A3_J.py:651
+[17:25:39] === Generation 218/300 (dur=15s) ===                                             A3_J.py:624
+[17:25:45] [GEN 217] Best fitness = -5.5240                                                 A3_J.py:645
+           [GEN 217] Novelty = 0.017                                                        A3_J.py:651
+[17:26:19] === Generation 219/300 (dur=15s) ===                                             A3_J.py:624
+[17:26:25] [GEN 218] Best fitness = -5.4164                                                 A3_J.py:645
+           [GEN 218] Novelty = 0.109                                                        A3_J.py:651
+[17:26:59] === Generation 220/300 (dur=15s) ===                                             A3_J.py:624
+[17:27:05] [GEN 219] Best fitness = -5.5321                                                 A3_J.py:645
+           [GEN 219] Novelty = 0.022                                                        A3_J.py:651
+[17:27:42] === Generation 221/300 (dur=15s) ===                                             A3_J.py:624
+[17:27:47] [GEN 220] Best fitness = -5.5205                                                 A3_J.py:645
+           [GEN 220] Novelty = 0.025                                                        A3_J.py:651
+[17:28:22] === Generation 222/300 (dur=15s) ===                                             A3_J.py:624
+[17:28:28] [GEN 221] Best fitness = -5.3853                                                 A3_J.py:645
+           [GEN 221] Novelty = 0.025                                                        A3_J.py:651
+[17:29:01] === Generation 223/300 (dur=15s) ===                                             A3_J.py:624
+[17:29:07] [GEN 222] Best fitness = -5.6337                                                 A3_J.py:645
+           [GEN 222] Novelty = 0.033                                                        A3_J.py:651
+[17:29:41] === Generation 224/300 (dur=15s) ===                                             A3_J.py:624
+[17:29:47] [GEN 223] Best fitness = -5.5762                                                 A3_J.py:645
+           [GEN 223] Novelty = 0.042                                                        A3_J.py:651
+[17:30:22] === Generation 225/300 (dur=15s) ===                                             A3_J.py:624
+[17:30:28] [GEN 224] Best fitness = -5.2782                                                 A3_J.py:645
+           [GEN 224] Novelty = 0.042                                                        A3_J.py:651
+[17:31:02] === Generation 226/300 (dur=15s) ===                                             A3_J.py:624
+[17:31:07] [GEN 225] Best fitness = -5.6541                                                 A3_J.py:645
+           [GEN 225] Novelty = 0.070                                                        A3_J.py:651
+[17:31:42] === Generation 227/300 (dur=15s) ===                                             A3_J.py:624
+[17:31:47] [GEN 226] Best fitness = -5.4827                                                 A3_J.py:645
+           [GEN 226] Novelty = 0.028                                                        A3_J.py:651
+[17:32:21] === Generation 228/300 (dur=15s) ===                                             A3_J.py:624
+[17:32:27] [GEN 227] Best fitness = -5.4422                                                 A3_J.py:645
+           [GEN 227] Novelty = 0.025                                                        A3_J.py:651
+[17:33:01] === Generation 229/300 (dur=15s) ===                                             A3_J.py:624
+[17:33:07] [GEN 228] Best fitness = -5.6249                                                 A3_J.py:645
+           [GEN 228] Novelty = 0.013                                                        A3_J.py:651
+[17:33:40] === Generation 230/300 (dur=15s) ===                                             A3_J.py:624
+[17:33:46] [GEN 229] Best fitness = -5.4579                                                 A3_J.py:645
+           [GEN 229] Novelty = 0.030                                                        A3_J.py:651
+[17:34:20] === Generation 231/300 (dur=15s) ===                                             A3_J.py:624
+[17:34:25] [GEN 230] Best fitness = -5.5454                                                 A3_J.py:645
+           [GEN 230] Novelty = 0.032                                                        A3_J.py:651
+[17:35:00] === Generation 232/300 (dur=15s) ===                                             A3_J.py:624
+[17:35:06] [GEN 231] Best fitness = -5.6002                                                 A3_J.py:645
+           [GEN 231] Novelty = 0.039                                                        A3_J.py:651
+[17:35:41] === Generation 233/300 (dur=15s) ===                                             A3_J.py:624
+[17:35:46] [GEN 232] Best fitness = -5.5546                                                 A3_J.py:645
+           [GEN 232] Novelty = 0.032                                                        A3_J.py:651
+[17:36:20] === Generation 234/300 (dur=15s) ===                                             A3_J.py:624
+[17:36:25] [GEN 233] Best fitness = -5.3918                                                 A3_J.py:645
+           [GEN 233] Novelty = 0.029                                                        A3_J.py:651
+[17:36:59] === Generation 235/300 (dur=15s) ===                                             A3_J.py:624
+[17:37:04] [GEN 234] Best fitness = -5.4354                                                 A3_J.py:645
+           [GEN 234] Novelty = 0.022                                                        A3_J.py:651
+[17:37:40] === Generation 236/300 (dur=15s) ===                                             A3_J.py:624
+[17:37:45] [GEN 235] Best fitness = -5.4461                                                 A3_J.py:645
+           [GEN 235] Novelty = 0.019                                                        A3_J.py:651
+[17:38:20] === Generation 237/300 (dur=15s) ===                                             A3_J.py:624
+[17:38:26] [GEN 236] Best fitness = -5.4118                                                 A3_J.py:645
+           [GEN 236] Novelty = 0.035                                                        A3_J.py:651
+[17:39:04] === Generation 238/300 (dur=15s) ===                                             A3_J.py:624
+[17:39:11] [GEN 237] Best fitness = -5.5357                                                 A3_J.py:645
+           [GEN 237] Novelty = 0.023                                                        A3_J.py:651
+[17:39:50] === Generation 239/300 (dur=15s) ===                                             A3_J.py:624
+[17:39:56] [GEN 238] Best fitness = -5.6091                                                 A3_J.py:645
+           [GEN 238] Novelty = 0.024                                                        A3_J.py:651
+[17:40:34] === Generation 240/300 (dur=15s) ===                                             A3_J.py:624
+[17:40:40] [GEN 239] Best fitness = -5.6413                                                 A3_J.py:645
+           [GEN 239] Novelty = 0.032                                                        A3_J.py:651
+[17:41:21] === Generation 241/300 (dur=15s) ===                                             A3_J.py:624
+[17:41:27] [GEN 240] Best fitness = -5.4579                                                 A3_J.py:645
+           [GEN 240] Novelty = 0.023                                                        A3_J.py:651
+[17:42:06] === Generation 242/300 (dur=15s) ===                                             A3_J.py:624
+[17:42:13] [GEN 241] Best fitness = -5.5697                                                 A3_J.py:645
+           [GEN 241] Novelty = 0.032                                                        A3_J.py:651
+[17:42:51] === Generation 243/300 (dur=15s) ===                                             A3_J.py:624
+[17:42:58] [GEN 242] Best fitness = -5.4917                                                 A3_J.py:645
+           [GEN 242] Novelty = 0.021                                                        A3_J.py:651
+[17:43:41] === Generation 244/300 (dur=15s) ===                                             A3_J.py:624
+[17:43:48] [GEN 243] Best fitness = -5.4767                                                 A3_J.py:645
+           [GEN 243] Novelty = 0.017                                                        A3_J.py:651
+[17:44:30] === Generation 245/300 (dur=15s) ===                                             A3_J.py:624
+[17:44:36] [GEN 244] Best fitness = -5.6483                                                 A3_J.py:645
+           [GEN 244] Novelty = 0.028                                                        A3_J.py:651
+[17:45:14] === Generation 246/300 (dur=15s) ===                                             A3_J.py:624
+[17:45:20] [GEN 245] Best fitness = -5.5795                                                 A3_J.py:645
+           [GEN 245] Novelty = 0.031                                                        A3_J.py:651
+[17:46:00] === Generation 247/300 (dur=15s) ===                                             A3_J.py:624
+[17:46:07] [GEN 246] Best fitness = -5.2370                                                 A3_J.py:645
+           [GEN 246] Novelty = 0.059                                                        A3_J.py:651
+[17:46:45] === Generation 248/300 (dur=15s) ===                                             A3_J.py:624
+[17:46:51] [GEN 247] Best fitness = -5.4463                                                 A3_J.py:645
+           [GEN 247] Novelty = 0.028                                                        A3_J.py:651
+[17:47:26] === Generation 249/300 (dur=15s) ===                                             A3_J.py:624
+[17:47:32] [GEN 248] Best fitness = -5.4450                                                 A3_J.py:645
+           [GEN 248] Novelty = 0.022                                                        A3_J.py:651
+[17:48:06] === Generation 250/300 (dur=15s) ===                                             A3_J.py:624
+[17:48:11] [GEN 249] Best fitness = -5.7560                                                 A3_J.py:645
+           [GEN 249] Novelty = 0.080                                                        A3_J.py:651
+[17:48:47] === Generation 251/300 (dur=15s) ===                                             A3_J.py:624
+[17:48:53] [GEN 250] Best fitness = -5.5947                                                 A3_J.py:645
+           [GEN 250] Novelty = 0.031                                                        A3_J.py:651
+[17:49:28] === Generation 252/300 (dur=15s) ===                                             A3_J.py:624
+[17:49:33] [GEN 251] Best fitness = -5.6450                                                 A3_J.py:645
+           [GEN 251] Novelty = 0.056                                                        A3_J.py:651
+[17:50:09] === Generation 253/300 (dur=15s) ===                                             A3_J.py:624
+[17:50:16] [GEN 252] Best fitness = -5.4004                                                 A3_J.py:645
+           [GEN 252] Novelty = 0.022                                                        A3_J.py:651
+[17:50:53] === Generation 254/300 (dur=15s) ===                                             A3_J.py:624
+[17:50:59] [GEN 253] Best fitness = -5.0984                                                 A3_J.py:645
+           [GEN 253] Novelty = 0.063                                                        A3_J.py:651
+[17:51:41] === Generation 255/300 (dur=15s) ===                                             A3_J.py:624
+[17:51:48] [GEN 254] Best fitness = -5.3316                                                 A3_J.py:645
+           [GEN 254] Novelty = 0.034                                                        A3_J.py:651
+[17:52:26] === Generation 256/300 (dur=15s) ===                                             A3_J.py:624
+[17:52:32] [GEN 255] Best fitness = -5.2552                                                 A3_J.py:645
+           [GEN 255] Novelty = 0.114                                                        A3_J.py:651
+[17:53:08] === Generation 257/300 (dur=15s) ===                                             A3_J.py:624
+[17:53:14] [GEN 256] Best fitness = -5.3860                                                 A3_J.py:645
+           [GEN 256] Novelty = 0.038                                                        A3_J.py:651
+[17:53:57] === Generation 258/300 (dur=15s) ===                                             A3_J.py:624
+[17:54:04] [GEN 257] Best fitness = -5.3947                                                 A3_J.py:645
+           [GEN 257] Novelty = 0.029                                                        A3_J.py:651
+[17:54:41] === Generation 259/300 (dur=15s) ===                                             A3_J.py:624
+[17:54:47] [GEN 258] Best fitness = -5.6323                                                 A3_J.py:645
+           [GEN 258] Novelty = 0.052                                                        A3_J.py:651
+[17:55:27] === Generation 260/300 (dur=15s) ===                                             A3_J.py:624
+[17:55:33] [GEN 259] Best fitness = -5.5013                                                 A3_J.py:645
+           [GEN 259] Novelty = 0.028                                                        A3_J.py:651
+[17:56:11] === Generation 261/300 (dur=15s) ===                                             A3_J.py:624
+[17:56:17] [GEN 260] Best fitness = -5.5721                                                 A3_J.py:645
+           [GEN 260] Novelty = 0.031                                                        A3_J.py:651
+[17:56:53] === Generation 262/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[17:56:59] [GEN 261] Best fitness = -5.5680                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 261] Novelty = 0.097                                                        A3_J.py:651                                                                                                                                                                
+[17:57:41] === Generation 263/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[17:57:47] [GEN 262] Best fitness = -5.3300                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 262] Novelty = 0.023                                                        A3_J.py:651                                                                                                                                                                
+[17:58:29] === Generation 264/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[17:58:35] [GEN 263] Best fitness = -5.3821                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 263] Novelty = 0.033                                                        A3_J.py:651                                                                                                                                                                
+[17:59:17] === Generation 265/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[17:59:24] [GEN 264] Best fitness = -5.3519                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 264] Novelty = 0.043                                                        A3_J.py:651                                                                                                                                                                
+[18:00:04] === Generation 266/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:00:10] [GEN 265] Best fitness = -5.4331                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 265] Novelty = 0.029                                                        A3_J.py:651                                                                                                                                                                
+[18:00:49] === Generation 267/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:00:55] [GEN 266] Best fitness = -5.3600                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 266] Novelty = 0.030                                                        A3_J.py:651                                                                                                                                                                
+[18:01:33] === Generation 268/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:01:39] [GEN 267] Best fitness = -5.5664                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 267] Novelty = 0.030                                                        A3_J.py:651                                                                                                                                                                
+[18:02:29] === Generation 269/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:02:36] [GEN 268] Best fitness = -5.5149                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 268] Novelty = 0.026                                                        A3_J.py:651                                                                                                                                                                
+[18:03:23] === Generation 270/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:03:31] [GEN 269] Best fitness = -5.4787                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 269] Novelty = 0.027                                                        A3_J.py:651                                                                                                                                                                
+[18:04:15] === Generation 271/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:04:21] [GEN 270] Best fitness = -5.3231                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 270] Novelty = 0.023                                                        A3_J.py:651                                                                                                                                                                
+[18:05:00] === Generation 272/300 (dur=15s) ===                                             A3_J.py:624                                                                                                                                                                
+[18:05:07] [GEN 271] Best fitness = -5.4899                                                 A3_J.py:645                                                                                                                                                                
+           [GEN 271] Novelty = 0.022                                                        A3_J.py:651                                                                                                                                                                
+[18:05:43] === Generation 273/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:05:49] [GEN 272] Best fitness = -5.3907                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 272] Novelty = 0.075                                                                                                                                                                                                                        A3_J.py:651
+[18:06:32] === Generation 274/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:06:39] [GEN 273] Best fitness = -5.0373                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 273] Novelty = 0.099                                                                                                                                                                                                                        A3_J.py:651
+[18:07:17] === Generation 275/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:07:24] [GEN 274] Best fitness = -5.7210                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 274] Novelty = 0.083                                                                                                                                                                                                                        A3_J.py:651
+[18:08:02] === Generation 276/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:08:09] [GEN 275] Best fitness = -5.5991                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 275] Novelty = 0.033                                                                                                                                                                                                                        A3_J.py:651
+[18:08:49] === Generation 277/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:08:56] [GEN 276] Best fitness = -5.4836                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 276] Novelty = 0.025                                                                                                                                                                                                                        A3_J.py:651
+[18:09:35] === Generation 278/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:09:41] [GEN 277] Best fitness = -5.4796                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 277] Novelty = 0.023                                                                                                                                                                                                                        A3_J.py:651
+[18:10:18] === Generation 279/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:10:24] [GEN 278] Best fitness = -5.4911                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 278] Novelty = 0.012                                                                                                                                                                                                                        A3_J.py:651
+[18:11:03] === Generation 280/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:11:09] [GEN 279] Best fitness = -5.3760                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 279] Novelty = 0.019                                                                                                                                                                                                                        A3_J.py:651
+[18:11:48] === Generation 281/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:11:56] [GEN 280] Best fitness = -5.3060                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 280] Novelty = 0.023                                                                                                                                                                                                                        A3_J.py:651
+[18:12:39] === Generation 282/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:12:46] [GEN 281] Best fitness = -5.5782                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 281] Novelty = 0.031                                                                                                                                                                                                                        A3_J.py:651
+[18:13:23] === Generation 283/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:13:29] [GEN 282] Best fitness = -5.4973                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 282] Novelty = 0.014                                                                                                                                                                                                                        A3_J.py:651
+[18:14:09] === Generation 284/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:14:16] [GEN 283] Best fitness = -5.2608                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 283] Novelty = 0.041                                                                                                                                                                                                                        A3_J.py:651
+[18:14:59] === Generation 285/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:15:05] [GEN 284] Best fitness = -5.4987                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 284] Novelty = 0.013                                                                                                                                                                                                                        A3_J.py:651
+[18:15:47] === Generation 286/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:15:53] [GEN 285] Best fitness = -5.5833                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 285] Novelty = 0.031                                                                                                                                                                                                                        A3_J.py:651
+[18:16:31] === Generation 287/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:16:36] [GEN 286] Best fitness = -5.6753                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 286] Novelty = 0.081                                                                                                                                                                                                                        A3_J.py:651
+[18:17:13] === Generation 288/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:17:20] [GEN 287] Best fitness = -5.6431                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 287] Novelty = 0.026                                                                                                                                                                                                                        A3_J.py:651
+[18:17:57] === Generation 289/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:18:03] [GEN 288] Best fitness = -5.3865                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 288] Novelty = 0.017                                                                                                                                                                                                                        A3_J.py:651
+[18:18:40] === Generation 290/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:18:46] [GEN 289] Best fitness = -5.7195                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 289] Novelty = 0.066                                                                                                                                                                                                                        A3_J.py:651
+[18:19:22] === Generation 291/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:19:28] [GEN 290] Best fitness = -5.6235                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 290] Novelty = 0.034                                                                                                                                                                                                                        A3_J.py:651
+[18:20:04] === Generation 292/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:20:10] [GEN 291] Best fitness = -5.4881                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 291] Novelty = 0.023                                                                                                                                                                                                                        A3_J.py:651
+[18:20:47] === Generation 293/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:20:53] [GEN 292] Best fitness = -5.5191                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 292] Novelty = 0.019                                                                                                                                                                                                                        A3_J.py:651
+[18:21:29] === Generation 294/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:21:35] [GEN 293] Best fitness = -5.7345                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 293] Novelty = 0.065                                                                                                                                                                                                                        A3_J.py:651
+[18:22:13] === Generation 295/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:22:19] [GEN 294] Best fitness = -5.5376                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 294] Novelty = 0.034                                                                                                                                                                                                                        A3_J.py:651
+[18:22:54] === Generation 296/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:23:01] [GEN 295] Best fitness = -5.6243                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 295] Novelty = 0.017                                                                                                                                                                                                                        A3_J.py:651
+[18:23:37] === Generation 297/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:23:43] [GEN 296] Best fitness = -5.4951                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 296] Novelty = 0.011                                                                                                                                                                                                                        A3_J.py:651
+[18:24:19] === Generation 298/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:24:25] [GEN 297] Best fitness = -5.6386                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 297] Novelty = 0.033                                                                                                                                                                                                                        A3_J.py:651
+[18:25:01] === Generation 299/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:25:07] [GEN 298] Best fitness = -5.6296                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 298] Novelty = 0.027                                                                                                                                                                                                                        A3_J.py:651
+[18:25:42] === Generation 300/300 (dur=15s) ===                                                                                                                                                                                                             A3_J.py:624
+[18:25:49] [GEN 299] Best fitness = -5.2037                                                                                                                                                                                                                 A3_J.py:645
+           [GEN 299] Novelty = 0.025                                                                                                                                                                                                                        A3_J.py:651
+[18:26:24] [LOG] Saved fitness logs: C:\Users\abdes\Desktop\EC\ariel_olympics\__data__\A3_J\fitness_logs_pop16_gen300.npz                                                                                                                                   A3_J.py:736
+           [RESULT] Best overall fitness: -4.8492   
